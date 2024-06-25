@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), 
+calcular e escrever a área do retângulo.*/
 
 namespace FaccatLogica_06
 {
