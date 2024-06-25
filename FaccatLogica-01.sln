@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaccatLogica-08", "FaccatLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaccatLogica-09", "FaccatLogica-09\FaccatLogica-09.csproj", "{739A65DE-4C25-4180-9EBB-80C132DEB8DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaccatLogica-10", "FaccatLogica-10\FaccatLogica-10.csproj", "{3987A4EB-58B7-4CC9-A112-CA4FD9B5A0A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{739A65DE-4C25-4180-9EBB-80C132DEB8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739A65DE-4C25-4180-9EBB-80C132DEB8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739A65DE-4C25-4180-9EBB-80C132DEB8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3987A4EB-58B7-4CC9-A112-CA4FD9B5A0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3987A4EB-58B7-4CC9-A112-CA4FD9B5A0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3987A4EB-58B7-4CC9-A112-CA4FD9B5A0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3987A4EB-58B7-4CC9-A112-CA4FD9B5A0A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
